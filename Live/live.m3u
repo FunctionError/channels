@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 group-title="Live Events" tvg-logo="https://i.ibb.co/9nXGBSM/Pirates-Tv-3.png",Live Event 1
+http://10.20.30.30:8787/LiveEvent-1/video.m3u8
+#EXTINF:-1 group-title="Live Events" tvg-logo="https://i.ibb.co/9nXGBSM/Pirates-Tv-3.png",Live Event 2
+http://10.20.30.30:8787/LiveEvent-2/video.m3u8
+#EXTINF:-1 group-title="Live Events" tvg-logo="https://i.ibb.co/9nXGBSM/Pirates-Tv-3.png",Live Event 3
+http://10.20.30.30:8787/LiveEvent-3/video.m3u8
+#EXTINF:-1 group-title="Live Events" tvg-logo="https://i.ibb.co/9nXGBSM/Pirates-Tv-3.png",Live Event 4
+http://10.20.30.30:8787/LiveEvent-4/video.m3u8
+#EXTINF:-1 group-title="Live Events" tvg-logo="https://i.ibb.co/9nXGBSM/Pirates-Tv-3.png",Live Event 5
+http://10.20.30.30:8787/LiveEvent-5/video.m3u8
+#EXTINF:-1 group-title="Live Events" tvg-logo="https://i.ibb.co/9nXGBSM/Pirates-Tv-3.png",Live Event 6
+http://10.20.30.30:8787/LiveEvent-6/video.m3u8
+
