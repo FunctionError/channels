@@ -18,9 +18,6 @@ https://raw.githubusercontent.com/functionerror/channels/main/information/Discov
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="information",Discovery Turbo
 https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Turbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="information",Eurosport
-https://raw.githubusercontent.com/functionerror/channels/main/information/Eurosport.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="information",Food Network
 https://raw.githubusercontent.com/functionerror/channels/main/information/Food%20Network.m3u8
 
